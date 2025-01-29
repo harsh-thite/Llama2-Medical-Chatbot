@@ -1,4 +1,5 @@
-![chain](https://github.com/user-attachments/assets/5eda1309-c0d6-4a30-9bb5-0050a8c79d57)
+![image](https://github.com/user-attachments/assets/9af1e2a2-7bc5-443e-b4af-02dc0889190c)
+
 
 # Llama2 Medical ChatBot
 
